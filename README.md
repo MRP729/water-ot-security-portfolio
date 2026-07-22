@@ -4,3 +4,4 @@
 
 ## Credentials
 - **CISA ICS300** (July 2026) — [Certificate](./credentials/CISA-ICS300-Certificate.pdf.pdf) | 86% score
+- **CISA ICS401V** (July 2026) — [Certificate](./credentials/CISA-ICS401V-Certificate.pdf.pdf)
